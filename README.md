@@ -40,5 +40,6 @@ WordPress (Custom Plugins, Hooks, Theme Development)
 
 ## 📫 Contact
 
-📍 Jaipur, India
-📧 [kunalpareek56@gmail.com](mailto:kunalpareek56@gmail.com)
+📧 Email: [kunalpareek56@gmail.com](mailto:kunalpareek56@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-pareek-bba0a2225/
+
