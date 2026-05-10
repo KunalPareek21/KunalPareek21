@@ -25,35 +25,45 @@ Currently working remotely with a US-based company building WordPress platforms,
 # ⚡ Tech Stack
 
 ## Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Vue.js
-- Tailwind CSS
-- HTML5
-- CSS3
+
+![React](https://skillicons.dev/icons?i=react) React  
+![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js  
+![TypeScript](https://skillicons.dev/icons?i=ts) TypeScript  
+![JavaScript](https://skillicons.dev/icons?i=js) JavaScript  
+![Vue.js](https://skillicons.dev/icons?i=vue) Vue.js  
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) Tailwind CSS  
+![HTML5](https://skillicons.dev/icons?i=html) HTML5  
+![CSS3](https://skillicons.dev/icons?i=css) CSS3  
+
+---
 
 ## Backend
-- Node.js
-- PHP
-- REST APIs
-- MySQL
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
+![PHP](https://skillicons.dev/icons?i=php) PHP  
+![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
+![REST API](https://img.shields.io/badge/API-REST-black?style=flat-square) REST APIs  
+
+---
 
 ## CMS & Ecosystem
-- WordPress
-- WooCommerce
-- Custom Plugin Development
-- Custom Theme Development
+
+![WordPress](https://skillicons.dev/icons?i=wordpress) WordPress  
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) WooCommerce  
+![Plugin Development](https://img.shields.io/badge/Custom-Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white) Plugin Development  
+![Theme Development](https://img.shields.io/badge/Custom-Themes-111111?style=flat-square&logo=wordpress&logoColor=white) Theme Development  
+
+---
 
 ## Tools & Workflow
-- GitHub
-- Vercel
-- Postman
-- Figma
-- GSAP
-- Framer Motion
-- Three.js
+
+![GitHub](https://skillicons.dev/icons?i=github) GitHub  
+![Vercel](https://skillicons.dev/icons?i=vercel) Vercel  
+![Postman](https://skillicons.dev/icons?i=postman) Postman  
+![Figma](https://skillicons.dev/icons?i=figma) Figma  
+![Framer Motion](https://img.shields.io/badge/Framer-Motion-black?style=flat-square&logo=framer&logoColor=blue) Framer Motion  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) GSAP  
+![Three.js](https://skillicons.dev/icons?i=threejs) Three.js  
 
 ---
 
