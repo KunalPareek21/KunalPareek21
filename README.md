@@ -72,7 +72,6 @@ Currently working remotely with a US-based company building WordPress platforms,
 </tr>
 </table>
 
----
 
 ## Backend
 
@@ -100,7 +99,6 @@ Currently working remotely with a US-based company building WordPress platforms,
 </tr>
 </table>
 
----
 
 ## CMS & Ecosystem
 
@@ -128,7 +126,6 @@ Currently working remotely with a US-based company building WordPress platforms,
 </tr>
 </table>
 
----
 
 ## Tools & Workflow
 
@@ -174,7 +171,6 @@ Currently working remotely with a US-based company building WordPress platforms,
 </table>
 
 </div>
----
 
 # 🔥 Featured Projects
 
