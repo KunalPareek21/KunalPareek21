@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kunal Pareek
 
-🚀 Full Stack Developer (React, Next.js, Node.js, WordPress)
+🚀 Full Stack Developer (React, Next.js, Node.js, PHP, WordPress)
 
 I build scalable SaaS applications, API-driven systems, and high-performance WordPress platforms for real-world clients.
 
@@ -8,7 +8,7 @@ I build scalable SaaS applications, API-driven systems, and high-performance Wor
 
 ## 💼 Professional Experience
 
-* Built **40+ WordPress websites** (recruitment, LMS, business platforms)
+* Built **50+ WordPress websites** (recruitment, LMS, business platforms)
 * Developed **custom plugins, hooks, and performance optimizations**
 * Built **SaaS dashboards and analytics systems**
 * Developed **Node.js APIs** for real-world applications
@@ -72,7 +72,7 @@ Due to company confidentiality, detailed work is documented here:
 React, Next.js, TypeScript, JavaScript
 
 **Backend:**
-Node.js, REST APIs
+Node.js, REST APIs, PHP
 
 **CMS:**
 WordPress (Plugins, Hooks, Theme Development)
@@ -91,4 +91,4 @@ WordPress (Plugins, Hooks, Theme Development)
 ## 📫 Contact
 
 📧 Email: [kunalpareek56@gmail.com](mailto:kunalpareek56@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/kunal-pareek-bba0a2225/
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-pareek21/
