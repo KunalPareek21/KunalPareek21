@@ -24,47 +24,156 @@ Currently working remotely with a US-based company building WordPress platforms,
 
 # ⚡ Tech Stack
 
-## Frontend
+<div align="center">
 
-![React](https://skillicons.dev/icons?i=react) React  
-![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js  
-![TypeScript](https://skillicons.dev/icons?i=ts) TypeScript  
-![JavaScript](https://skillicons.dev/icons?i=js) JavaScript  
-![Vue.js](https://skillicons.dev/icons?i=vue) Vue.js  
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) Tailwind CSS  
-![HTML5](https://skillicons.dev/icons?i=html) HTML5  
-![CSS3](https://skillicons.dev/icons?i=css) CSS3  
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="55" /><br/>
+<b>React</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" /><br/>
+<b>Next.js</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=ts" width="55" /><br/>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br/>
+<b>JavaScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vue" width="55" /><br/>
+<b>Vue.js</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br/>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=html" width="55" /><br/>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=css" width="55" /><br/>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js  
-![PHP](https://skillicons.dev/icons?i=php) PHP  
-![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
-![REST API](https://img.shields.io/badge/API-REST-black?style=flat-square) REST APIs  
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=php" width="55" /><br/>
+<b>PHP</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" /><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/API-REST-black?style=for-the-badge" /><br/>
+<b>REST APIs</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## CMS & Ecosystem
 
-![WordPress](https://skillicons.dev/icons?i=wordpress) WordPress  
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) WooCommerce  
-![Plugin Development](https://img.shields.io/badge/Custom-Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white) Plugin Development  
-![Theme Development](https://img.shields.io/badge/Custom-Themes-111111?style=flat-square&logo=wordpress&logoColor=white) Theme Development  
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=wordpress" width="55" /><br/>
+<b>WordPress</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" /><br/>
+<b>WooCommerce</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Custom-Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br/>
+<b>Plugin Development</b>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Custom-Themes-111111?style=for-the-badge&logo=wordpress&logoColor=white" /><br/>
+<b>Theme Development</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tools & Workflow
 
-![GitHub](https://skillicons.dev/icons?i=github) GitHub  
-![Vercel](https://skillicons.dev/icons?i=vercel) Vercel  
-![Postman](https://skillicons.dev/icons?i=postman) Postman  
-![Figma](https://skillicons.dev/icons?i=figma) Figma  
-![Framer Motion](https://img.shields.io/badge/Framer-Motion-black?style=flat-square&logo=framer&logoColor=blue) Framer Motion  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) GSAP  
-![Three.js](https://skillicons.dev/icons?i=threejs) Three.js  
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="55" /><br/>
+<b>GitHub</b>
+</td>
 
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vercel" width="55" /><br/>
+<b>Vercel</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postman" width="55" /><br/>
+<b>Postman</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=figma" width="55" /><br/>
+<b>Figma</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Framer-Motion-black?style=for-the-badge&logo=framer&logoColor=blue" /><br/>
+<b>Framer Motion</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" /><br/>
+<b>GSAP</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=threejs" width="55" /><br/>
+<b>Three.js</b>
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 # 🔥 Featured Projects
